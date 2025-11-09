@@ -22,6 +22,6 @@ My goal is to become a professional Python developer or work in a related field,
 
 ## Badges
 
-[![Codewars](https://www.codewars.com/users/Thellstromm/badges/large)](https://www.codewars.com/users/Tellski)
+![Codewars](https://www.codewars.com/users/Tellski/badges/large)
 
 
