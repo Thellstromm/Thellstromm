@@ -6,6 +6,7 @@ I enjoy building projects, such as my **Simple Python Calculator**, to apply wha
 ---
 ## Profiles
 [My Boot.dev Profile](https://boot.dev/users/tellski)
+
 [My Codewars Profile](https://www.codewars.com/users/Thellstromm)
 
 ## Projects
@@ -21,6 +22,6 @@ My goal is to become a professional Python developer or work in a related field,
 
 ## Badges
 
-[![Codewars](https://www.codewars.com/users/Thellstromm/badges/large)](https://www.codewars.com/users/Thellstromm)
+[![Codewars](https://www.codewars.com/users/Thellstromm/badges/large)](https://www.codewars.com/users/Tellski)
 
-![Boot.dev Python Course](images/bootdev-python-badge.png)
+
