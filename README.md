@@ -4,7 +4,9 @@ I'm an aspiring Python developer, currently learning and improving my skills thr
 I enjoy building projects, such as my **Simple Python Calculator**, to apply what I learn in practice.
 
 ---
-[My Boot.dev Profile](https://boot.dev/users/Tellski)
+## Profiles
+[My Boot.dev Profile](https://boot.dev/users/tellski)
+![Codewars](https://www.codewars.com/users/Tellski/badges/large)
 
 ## Projects
 - 🐍 [Simple Python Calculator](https://github.com/Thellstromm/simple-python-calculator) – A small Python project for practicing calculations.
@@ -15,3 +17,4 @@ My goal is to become a professional Python developer or work in a related field,
 
 ## Contact
 - LinkedIn: [your-linkedin-url](https://www.linkedin.com) comming soon..
+- tellstrom.ludwig@icloud.com
