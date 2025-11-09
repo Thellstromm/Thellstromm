@@ -5,7 +5,7 @@ I enjoy building projects, such as my **Simple Python Calculator**, to apply wha
 
 ---
 ## Profiles
-[My Boot.dev Profile](https://boot.dev/users/tellski)
+[My Boot.dev Profile](https://boot.dev/u/tellski)
 
 [My Codewars Profile](https://www.codewars.com/users/Tellski)
 
