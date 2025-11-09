@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Thellstromm! 👋
 
-<!--
-**Thellstromm/Thellstromm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Python developer, currently learning and improving my skills through [Boot.dev](https://boot.dev) and [Codewars](https://www.codewars.com).  
+I enjoy building projects, such as my **Simple Python Calculator**, to apply what I learn in practice.
 
-Here are some ideas to get you started:
+## Projects
+- 🐍 [Simple Python Calculator](https://github.com/Thellstromm/simple-python-calculator) – A small Python project for practicing calculations.
+- 💻 Other practice projects and exercises from Boot.dev and Codewars.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+My goal is to become a professional Python developer or work in a related field, building real-world applications.
+
+## Contact
+- LinkedIn: [your-linkedin-url](https://www.linkedin.com) comming soon..
