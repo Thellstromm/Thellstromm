@@ -3,6 +3,9 @@
 I'm an aspiring Python developer, currently learning and improving my skills through [Boot.dev](https://boot.dev) and [Codewars](https://www.codewars.com).  
 I enjoy building projects, such as my **Simple Python Calculator**, to apply what I learn in practice.
 
+---
+[My Boot.dev Profile](https://boot.dev/users/Tellski)
+
 ## Projects
 - 🐍 [Simple Python Calculator](https://github.com/Thellstromm/simple-python-calculator) – A small Python project for practicing calculations.
 - 💻 Other practice projects and exercises from Boot.dev and Codewars.
