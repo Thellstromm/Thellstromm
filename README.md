@@ -7,7 +7,7 @@ I enjoy building projects, such as my **Simple Python Calculator**, to apply wha
 ## Profiles
 [My Boot.dev Profile](https://boot.dev/users/tellski)
 
-[My Codewars Profile](https://www.codewars.com/users/Thellstromm)
+[My Codewars Profile](https://www.codewars.com/users/Tellski)
 
 ## Projects
 - 🐍 [Simple Python Calculator](https://github.com/Thellstromm/simple-python-calculator) – A small Python project for practicing calculations.
