@@ -17,7 +17,7 @@ I enjoy building projects, such as my **Simple Python Calculator**, to apply wha
 My goal is to become a professional Python developer or work in a related field, building real-world applications.
 
 ## Contact
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com) comming soon..
+- LinkedIn: https://www.linkedin.com/in/ludwig-thellström-92288a391
 - tellstrom.ludwig@icloud.com
 
 ## Badges
