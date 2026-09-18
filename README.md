@@ -1,50 +1,48 @@
 # 👋 Hi, I'm Ludwig
 
-### .NET Developer | C# | Cloud & Azure
+### .NET Developer Student | C# & OOP | Seeking Internship (LIA) 2027
 
-I'm a .NET developer in training, currently focusing on **C#**, **.NET**, and **cloud development with Microsoft Azure**.
+I'm a .NET developer student at Jensen Yrkeshögskola in Stockholm, currently focusing on **C#** and **Object-Oriented Programming (OOP)**.
 
 I'm building my skills through hands-on projects, exercises, and continuous learning.
 
 ## 🚀 Currently Learning
 
-- 💻 C# & .NET
-- ☁️ Microsoft Azure
+- 💻 C# & Object-Oriented Programming (OOP)
+- 🏗️ Building console applications with C#
 - 🔧 Git & GitHub
-- 🗄️ Databases
-- 🌐 Web development & APIs
-- 🏗️ Cloud-based application development
+- 🎮 Small projects to strengthen my understanding
 
 ## 🛠️ Technologies
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 📚 Projects
 
-I'm currently building small projects to strengthen my understanding of programming and .NET development.
+I'm currently building small projects to strengthen my understanding of C# and OOP.
 
 Some of my projects include:
 
 - 🎮 C# console applications
 - ❌⭕ Tic-Tac-Toe
 - 🧮 Programming exercises
-- ☁️ Azure-focused projects as I progress
+- 💡 More projects coming as I progress
 
 ## 🎯 Goals
 
-My goal is to become a skilled **.NET developer with a strong understanding of cloud development and Azure**.
+My goal is to become a skilled **.NET developer in banking and finance**, ideally in Luxembourg.
 
-I'm especially interested in learning how applications are built, deployed, and maintained in cloud environments.
+I'm seeking an **internship (LIA) for fall 2027 and spring 2028** in Luxembourg or Stockholm.
+
+I'm especially interested in working with secure systems, databases, and cloud solutions.
 
 ## 📈 Learning Journey
 
-This GitHub profile is also a record of my learning journey.
+This GitHub profile is a record of my learning journey.
 
-I'm continuously adding projects, improving existing code, and learning new concepts.
+I'm continuously adding projects, improving existing code, and learning new concepts throughout my two-year program.
 
 ---
 
@@ -52,7 +50,8 @@ I'm continuously adding projects, improving existing code, and learning new conc
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/ludwig-thellström-92288a391
-- Ludwig.Thellstrom@outlook.com
+- [Ludwig.Thellstrom@outlook.com](mailto:Ludwig.Thellstrom@outlook.com)
+
 ## Badges
 
 ![Codewars](https://www.codewars.com/users/Tellski/badges/large)
