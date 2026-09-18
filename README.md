@@ -30,6 +30,17 @@ Some of my projects include:
 - 🧮 Programming exercises
 - 💡 More projects coming as I progress
 
+## 🎓 Education & Upcoming Skills
+
+During my two-year vocational program, I'll be learning:
+
+- 💻 **C# & .NET** – Object-oriented programming and application development
+- 🌐 **ASP.NET Core** – Web development and APIs
+- 🗄️ **SQL & Databases** – Database design and management
+- ☁️ **Microsoft Azure** – Cloud services and deployment
+- 🔧 **DevOps** – CI/CD, version control, and automation
+- 🏗️ **Cloud-based application development** – Building scalable solutions
+
 ## 🎯 Goals
 
 My goal is to become a skilled **.NET developer in banking and finance**, ideally in Luxembourg.
