@@ -26,7 +26,7 @@ I'm currently building small projects to strengthen my understanding of C# and O
 Some of my projects include:
 
 - 🎮 C# console applications
-- ❌⭕ Tic-Tac-Toe
+-  MyMiniBank
 - 🧮 Programming exercises
 - 💡 More projects coming as I progress
 
